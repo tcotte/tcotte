@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcotte&show_icons=true&theme=radical)
+📈 Github Status
+
+![Tcotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcotte&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tcotte&row=1&column=3&theme=onedark)](https://github.com/tcotte/github-profile-trophy)
