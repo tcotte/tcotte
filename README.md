@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <br/>
 
  ### 💬 Get In Touch
-🚀 https://tcotte.github.io/Portfolio/
+ 🚀 https://tcotte.github.io/Portfolio/
