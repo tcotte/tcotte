@@ -24,12 +24,12 @@ Here are some ideas to get you started:
  ### 🏆 Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=tcotte&row=1&column=3&theme=onedark)](https://github.com/tcotte/github-profile-trophy)
 
-
+<br/>
 ### 🔨 Tools
 
 [Python] [OpenCV] [Pytorch] [Napari] [PyQt] [GitHub]
 
-
+<br/>
 ### 💬 Get In Touch
 
 🚀 https://tcotte.github.io/Portfolio/
