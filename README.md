@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 ### 🔨 Tools
 
-[Python] [OpenCV] [Pytorch] [Napari] [PyQt] [GitHub]
+[<img src="https://camo.githubusercontent.com/fec461a70436d2fe60330bad2204fd320557bdf21ac9877d6b3c04155c859a8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c6174266c6f676f3d707974686f6e266c696e6b3d68747470733a2f2f6769746875622e636f6d2f73696575776531" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat&amp;logo=python&amp;link=https://github.com/sieuwe1" style="max-width: 100%;">] [OpenCV] [Pytorch] [Napari] [PyQt] [GitHub]
 
 <br/>
 ### 💬 Get In Touch
