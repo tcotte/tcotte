@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <ul/>
 
 <br/>
+ <hr/>
 
  ### 💬 Get In Touch
  🚀 https://tcotte.github.io/Portfolio/
