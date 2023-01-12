@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ✔️ Github Status
 
-![Tcotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcotte&show_icons=true&theme=merko)
+![Tcotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcotte&show_icons=true&theme=merko) 
 
 <br/>
 
